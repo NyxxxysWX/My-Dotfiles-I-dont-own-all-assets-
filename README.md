@@ -7,3 +7,5 @@ Do not install powertools like it says in that repo it is not what I use.
 When you go to use the chezmoi tool, follow the setup for 'wasabi'
 
 ***ENSURE YOU DOWNLOAD THE PIXEL CODE AND PIXEL CRAFT FONT FAMILY FROM JET BRAINS FONTS***
+
+If you guys want to share this to other platforms or use it in a collection of some sort please email me at masonnohl@gmail.com I will likley say yes.

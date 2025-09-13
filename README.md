@@ -9,7 +9,7 @@ When you go to use the chezmoi tool, follow the setup for 'wasabi'
 ***ENSURE YOU DOWNLOAD THE PIXEL CODE AND PIXEL CRAFT FONT FAMILY FROM JET BRAINS FONTS***
 
 ***I TAKE NO RESPONSIBILITY IF YOU BRICK YOUR PC!!***
-
+I think this is unlikely because I only used well known programs but anything can happen!
 
 
 

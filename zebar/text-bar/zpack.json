@@ -1,0 +1,10 @@
+{
+  "$schema": "https://github.com/glzr-io/zebar/raw/v3.1.1/resources/zpack-schema.json",
+  "name": "text-bar",
+  "version": "0.0.0",
+  "description": "",
+  "tags": [],
+  "previewImages": ["./resources/preview-image-1.png"],
+  "repositoryUrl": "",
+  "widgets": []
+}

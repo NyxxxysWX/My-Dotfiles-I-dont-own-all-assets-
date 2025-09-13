@@ -22,7 +22,7 @@ pipes.sh - decorative screen animation |
 
 ***IN MY ZSHRC FILE THERE IS A CUSTOM COMMAND FOR PACKAGE MANAGERS***
 It is only in mine so if you want it you would have to copy it into your own file.
-The way to run it is pacman -F "<package>"
+The way to run it is pacman -F "package"
 prerequisite:
 Yarn, Choco, Scoop, Cargo, Pip, Pipx, Eget, Nuget, Npackd.
 When used instead of needing to run each individual package manager command, it searches each one until it finds one that works and installs the package.

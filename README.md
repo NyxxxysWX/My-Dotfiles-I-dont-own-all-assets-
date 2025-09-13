@@ -11,7 +11,20 @@ When you go to use the chezmoi tool, follow the setup for 'wasabi'
 ***I TAKE NO RESPONSIBILITY IF YOU BRICK YOUR PC!!***
 I think this is unlikely because I only used well known programs but anything can happen! Remember to stay safe on the inernet guys.
 
+TUI's I use:
 
+btm - performance monitor
+superfile - file explorer with built in shell mode
+cava - visualizer
+cmatrix - decorative screen animation
+neofetch - fetches info about your rig
+pipes.sh - decorative screen animation
+
+***IN MY ZSHRC FILE THERE IS A CUSTOM COMMAND FOR PACKAGE MANAGERS***
+It is only in mine so if you want it you would have to copy it into your own file.
+The way to run it is pacman -F <package>
+prerequisite:
+Yarn, Choco, Scoop, Cargo, Pip, Pipx, 
 
 If you guys want to share this to other platforms or use it in a collection of some sort please email me at masonnohl@gmail.com I will likley say yes. (even if im inactive I still check my email.)
 

@@ -4,3 +4,4 @@ So basically im going to link were I got the terminal setup and theme + bar and 
 https://github.com/jade-tam/dotfiles
 This repo contains all of what I just explained above + how to install zsh.
 Do not install powertools like it says in that repo it is not what I use.
+When you go to use the chezmoi tool, follow the setup for 'wasabi'

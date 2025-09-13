@@ -9,3 +9,5 @@ When you go to use the chezmoi tool, follow the setup for 'wasabi'
 ***ENSURE YOU DOWNLOAD THE PIXEL CODE AND PIXEL CRAFT FONT FAMILY FROM JET BRAINS FONTS***
 
 If you guys want to share this to other platforms or use it in a collection of some sort please email me at masonnohl@gmail.com I will likley say yes.
+
+Also reach out to the creator of the chezmoi dotfiles. I had no part in making them and I will not take any credit for them whatsoever.
